@@ -20,7 +20,7 @@
         "php" : ">=7.0",
         "ghunti/highcharts-php": "~3.0",
         "laracasts/flash": "^3.0",
-        "laravelcollective/html": "^5.8.0",
+        "laravelcollective/html": "^6.0.3",
         "predis/predis": "^1.1",
         "yajra/laravel-datatables-buttons": "^4.6",
         "yajra/laravel-datatables-html": "^4.0",
